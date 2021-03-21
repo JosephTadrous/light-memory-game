@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://github.com/JosephTadrous/light-memory-game/blob/main/walkthrough.gif?raw=true)
 
 
 ## Reflection Questions
